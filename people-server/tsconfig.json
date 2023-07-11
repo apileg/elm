@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noUncheckedIndexedAccess": true,
+
+        "moduleResolution": "node",
+        "target": "es2020",
+        "esModuleInterop": true,
+        "module": "commonjs",
+
+        "outDir": "out"
+    },
+}
